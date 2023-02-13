@@ -1,3 +1,4 @@
 # American Society for Composites (ASC) 2021 competition
-My team from the University of South Carolina won the second place in that competition as can be seen from this [link](https://www.asc-composites.org/student-simulation-competition)<br />
-I decided to share my codes I used in the competition along with the presentation and data. I hope you can benefit from it! <br />please feel free to reach out at any time at <code>malfahdi@email.sc.edu</code> 
+My team from the University of South Carolina won the second place in that competition as can be seen from this [link](https://www.asc-composites.org/student-simulation-competition).<br />
+I decided to share the codes I used for the competition along with the provided data by the competition and presentation and I hope you can benefit from it! <br />
+please feel free to reach out to me for questions at any time at <code>malfahdi@email.sc.edu</code> 
